@@ -1,0 +1,13 @@
+.conversor{
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.692) ;
+    background-color: rgba(255, 255, 255, 0.897);
+      
+}
+
+.title-card{
+    padding-left: 4%;   
+    background-color: rgba(218, 207, 207, 0.767);
+    border-radius: 5rem;
+}
